@@ -1,0 +1,23 @@
+{
+  "name": "sheggar-wheels",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test:negative": "node scripts/negative-tests.mjs"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "next": "^15.1.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "recharts": "^2.15.0",
+    "swr": "^2.3.0"
+  },
+  "type": "module",
+  "overrides": {
+    "react-is": "^19.0.0"
+  }
+}

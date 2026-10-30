@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" role="img" aria-label="City road illustration">
+<defs><linearGradient id="s" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f6c978"/><stop offset=".55" stop-color="#f7e3c3"/><stop offset="1" stop-color="#dbe7f4"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#s)"/>
+<circle cx="560" cy="250" r="70" fill="#fff3d0" opacity=".9"/>
+<g fill="#7d8da3" opacity=".7"><rect x="60" y="210" width="60" height="170"/><rect x="130" y="170" width="50" height="210"/><rect x="190" y="240" width="70" height="140"/><rect x="620" y="200" width="60" height="180"/><rect x="690" y="230" width="70" height="150"/></g>
+<path d="M0 500 L330 330 H470 L800 500 Z" fill="#2c3545"/>
+<path d="M400 340 V500" stroke="#f3f5f7" stroke-width="6" stroke-dasharray="26 22" opacity=".8"/>
+<path d="M0 380 H800 V330 H0 Z" fill="#6d9a6b" opacity=".35"/>
+</svg>
